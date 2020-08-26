@@ -1,0 +1,29 @@
+.collection {
+    display: flex;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    margin: 10px;
+}
+
+.img {
+    height: 220px;
+    width: 160px;
+    padding: 20px;
+}
+
+.name {
+    color: maroon;
+    font-weight: 700;
+}
+
+.button {
+    margin-left: 350px;
+    margin-top: 50px;
+    width: 120px;
+    align-items: center;
+    background-color: #2D88FF;
+    height: 30px;
+    color: white;
+    border-color: #2D88FF;
+    border-radius: 5px;
+}
